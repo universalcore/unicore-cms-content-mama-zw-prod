@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Latest", 
+        "slug": "latest", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "858841dae2c04d238b368a7f036e7ce1"
+    }, 
+    "model": "GitCategoryModel"
+}
