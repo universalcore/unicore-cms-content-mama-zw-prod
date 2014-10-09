@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "test", 
+        "language": "eng_UK", 
+        "title": "test article", 
+        "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+        "created_at": "2014-10-09T13:46:03.862184+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-09T13:46:03.862499+00:00", 
+        "linked_pages": [], 
+        "slug": "test-article", 
+        "content": "test ", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "477aa5907c2048d392abcfcf9c3f1cea"
+    }, 
+    "model": "GitPageModel"
+}
