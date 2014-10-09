@@ -5,6 +5,7 @@
         "title": "Baby", 
         "slug": "baby", 
         "source": null, 
+        "position": 1, 
         "featured_in_navbar": true, 
         "id": "4eafe002ebea4c7a97a7743183f70de1"
     }, 
