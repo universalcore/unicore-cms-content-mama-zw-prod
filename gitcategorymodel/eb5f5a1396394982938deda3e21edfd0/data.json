@@ -6,7 +6,7 @@
         "slug": "mtoto", 
         "source": null, 
         "position": null, 
-        "featured_in_navbar": false, 
+        "featured_in_navbar": true, 
         "id": "eb5f5a1396394982938deda3e21edfd0"
     }, 
     "model": "GitCategoryModel"
