@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "This is the subtitle field", 
+        "description": "this is a test article do not publish", 
+        "language": "eng_UK", 
+        "title": "test title", 
+        "primary_category": null, 
+        "created_at": "2014-11-04T06:15:01.014398+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-11-04T06:15:01.014583+00:00", 
+        "linked_pages": [], 
+        "slug": "test-title-slug", 
+        "content": "hfasdhflajdfsla", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "553161d398bd44f584834423efa93a71"
+    }, 
+    "model": "GitPageModel"
+}
