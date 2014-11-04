@@ -4,14 +4,14 @@
   "language": "swh_TZ", 
   "title": "Umri wa mwaka 1", 
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
-  "created_at": "2014-10-26T16:03:02.751571+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-10-26T16:03:02.751722+00:00", 
+  "created_at": "2014-10-26T16:03:02+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-04T18:22:24.296045+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 6, 
   "slug": "umri-wa-mwaka-1", 
   "uuid": "984d554fb7d94293ba3fae51e4c3b7a6"
 }
