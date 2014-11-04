@@ -1,0 +1,29 @@
+{
+  "subtitle": "This is the subtitle field", 
+  "description": "This is the description field.", 
+  "language": "eng_UK", 
+  "title": "This is the title field", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2014-10-28T11:00:21+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-10-28T11:32:08.926270+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "b9ad19a5ea794c20879988bc48fba7a1", 
+    "6ff678d6d63c4d79be341473a5d2e90f", 
+    "0e8f823668084e9faf92d8aa6faeb1de"
+  ], 
+  "id": "25897115030b4ee18268465333c1cc82", 
+  "content": "\r\nPut the headline back\r\n---------------------\r\n\r\nin \r\n\r\nThis is the content\r\n\r\n\r\n[http://cms.tz.mama.unicore.io/cms/post/96/][1]\r\n\r\n\r\n  [1]: http://cms.tz.mama.unicore.io/cms/post/96/", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "Title-field-UK-en", 
+  "uuid": "25897115030b4ee18268465333c1cc82"
+}

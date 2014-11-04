@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "Umri wa miezi 10", 
+        "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
+        "created_at": "2014-10-26T15:59:47.775681+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-11-03T07:44:35.588674+00:00", 
+        "linked_pages": [], 
+        "slug": "umri-wa-miezi-10", 
+        "content": "Mtoto wako anaanza kuelewa maneno na misemo rahisi. Jaribu kurudia maneno yake, ukitumia lugha ya watu mzima. \r\n\r\nPolepole, atajifunza kujitegemea, na atapunguza kulia unapomwacha. Lakini, wakati mwingine, kumuacha kutakuwa kuchungu na atalia! Ikiwa ana kitu kilicho na harufu yako, kama vile nguo ulizokuwa umevaa, kitasaidia kumtuliza. \t\r\n\r\nKatika umri huu, mtoto wako anaweza kuketi bila wasiwasi na anaweza kutembea akiwa anajishikilia kwenye samani. Anaweza hata kuachilia kwa muda mfupi na akasimama bila kujishikilia, au hata apige hatua chache ukimshikilia mikono yake.\r\n\r\nKatika umri huu, mtoto wako atajifunza kujilisha kwa mikono mlo wote. Atataka kunywa kutoka kwenye kikombe. Hii ni stadi mpya, na atahitaji kufanya mazoezi kwa miezi kadhaa ili azoee! \r\n\r\nMtoto wako anaweza kuelewa maelekezo rahisi sasa. Lakini haimaanishi atakuwa akifuatilia neno 'hapana' kila wakati! Ataelewa neno 'hapana' vyema zaidi ikiwa linatumiwa hasa kumsaidia kujua tofauti ya jambo zuri na baya, na hali salama na hatari.\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 7, 
+        "id": "54c8418e0f6444749412d4ed22fad143"
+    }, 
+    "model": "GitPageModel"
+}

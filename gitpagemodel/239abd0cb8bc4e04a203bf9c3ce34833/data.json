@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "Mtoto wako anapenda kucheza", 
+        "description": "Mtoto wako anapenda kucheza", 
+        "language": "swh_TZ", 
+        "title": "Umri wa miezi 3", 
+        "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
+        "created_at": "2014-10-26T15:43:25.233308+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-11-03T07:44:35.708723+00:00", 
+        "linked_pages": [], 
+        "slug": "umri-wa-miezi-3", 
+        "content": "Mtoto wako anaendelea kuwa mwepesi wa kutembeza viungo vyake. Anaweza kufurahia kufungua na kufunga vidole vyake, au kupiga makofi.\r\n\r\nUcheshi wa mtoto wako pia unakua. Kumtekenya au kumbusu kwa sauti kwenye tumbo kunaweza kumchekesha. \r\n\r\nTangu kuzaliwa kwake, mtoto wako hupenda kuguswa. Ni muhimu kwa ukuaji na maendeleo yake. Kumkanda taratibu mwilini wake baada ya kumuogesha au kumkumbatia kwa muda mrefu kabla hajalala ni kitu kizuri kwa nyote wawili. \r\n\r\nKucheza peke yake kunausaidia ubongo wa mtoto wako kukua. Ubongo wake unavyokua, ndivyo anavyozidi kuwa mdadisi. Anaweza kucheza na kitu kidogo cha kuchezea anachoweza kushika na kutikisa. Atakuwa anajifunza pia kuhusu rangi, maumbo na ukubwa. Pia anajifunza kutokana na kelele za kitu anachochezea na kutokana na kukihisi kama ni nyororo au kigumu.\t\r\n\r\nMtoto wako ataanza kuchekacheka na kutabasamu unapokunja sura kumchekesha na atafurahia mizaha mingi. Atafurahia pia kusikia sauti nyingi. Piga kidoko kwa ulimi, mluzi au toa sauti za wanyama. Atazipenda.\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 14, 
+        "id": "239abd0cb8bc4e04a203bf9c3ce34833"
+    }, 
+    "model": "GitPageModel"
+}

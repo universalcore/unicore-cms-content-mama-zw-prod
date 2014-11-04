@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "eng_UK", 
+        "title": "About", 
+        "primary_category": null, 
+        "created_at": "2014-10-10T11:27:22+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-11-03T07:44:36.012694+00:00", 
+        "linked_pages": [], 
+        "slug": "about", 
+        "content": "The Mobile Alliance for Maternal Action (MAMA) is a global movement that seeks to use mobile technologies to improve the health and lives of mothers in developing nations. \r\n\r\nMAMA is a partnership between the U.S. Agency for International Development (USAID), Johnson & Johnson, the United Nations Foundation, and BabyCenter and operates through a secretariat hosted by the mHealth Alliance. It was launched on Mother\u2019s Day 2011 by U.S. Secretary of State Hillary Clinton.\r\n\r\nMAMA\u2019s efforts align with the UN Secretary-General\u2019s Every Woman Every Child campaign and efforts to achieve Millennium Development Goals (MDGs) 4 and 5. To this end, MAMA engages an innovative global community to deliver vital health information to new and expectant mothers through mobile phones.\r\n\r\n**How to use MAMA**\r\n\r\nMothers are invited to register for the service by indicating their expected due-date, or the birthday of their recently-born child, and receive weekly health messages and reminders during the pregnancy and up to the child\u2019s first birthday. Timed messages include tips on everything from proper nutrition, how to keep the baby warm after birth, and breastfeeding.\r\n\r\nImproving the health and status of mothers acts as a positive multiplier. When mothers succeed, they lift themselves out of poverty, and they lift their families and their communities along with them. Mobile phones are one of the innovative tools they can use. MAMA is a single resource for mothers to find life-saving information on maternal and infant health, up-to-date support on HIV+ pregnancies and vital Help numbers.\r\n\r\n**Content Credits**\r\n\r\nPages have been donated for publication on this mobisite by BabyCenter, a leading maternal and infant health resource. Images \u00a9Thinkstock.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 47, 
+        "id": "bfe41b6d88e2467a9ec3379f4048c627"
+    }, 
+    "model": "GitPageModel"
+}

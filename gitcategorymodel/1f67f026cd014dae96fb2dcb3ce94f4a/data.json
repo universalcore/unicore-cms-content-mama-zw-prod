@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "UJAUZITO", 
+        "slug": "ujauzito", 
+        "source": null, 
+        "position": 0, 
+        "featured_in_navbar": true, 
+        "id": "1f67f026cd014dae96fb2dcb3ce94f4a"
+    }, 
+    "model": "GitCategoryModel"
+}

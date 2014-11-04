@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Expert Pregnancy", 
+        "slug": "pregnancy", 
+        "source": null, 
+        "position": 0, 
+        "featured_in_navbar": true, 
+        "id": "5e354c9c57df4314b7e1214a733bbcdf"
+    }, 
+    "model": "GitCategoryModel"
+}

@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "MAMA kwa MAMA", 
+        "slug": "mama-kwa-mama", 
+        "source": null, 
+        "position": 2, 
+        "featured_in_navbar": true, 
+        "id": "06a501102ad64d58a230366f9c1dd059"
+    }, 
+    "model": "GitCategoryModel"
+}

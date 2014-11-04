@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "Mtoto wako anaanza kutembea", 
+        "description": "Mtoto wako anaanza kutembea", 
+        "language": "swh_TZ", 
+        "title": "Umri wa miezi 11", 
+        "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
+        "created_at": "2014-10-26T16:01:27+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-11-03T07:44:35.541372+00:00", 
+        "linked_pages": [], 
+        "slug": "umri-wa-miezi-11", 
+        "content": "Mtoto wako anaweza kusema maneno, au kutoa sauti zinazosikika kama maneno. Ubongo wake unakua, na pia uwezo wake wa kuongea. Msikilize kwa uangalifu na ujibu sauti anazotoa. Hii itamtia moyo.\r\n\r\nAmekaribia umri wa mwaka mmoja sasa! Hata kama haelewi hasa kinachoendelea, katika umri huu, shangwe na sherehe pamoja na familia na marafiki zinampa hisia za usalama na ujamii. Atafurahia sherehe ndogondogo, karibu na nyumbani. Anaweza kuwa na furaha kupindukia ikiwa kuna watu wengi. \r\n\r\nUnaweza kuona mtoto wako bado anachunguza vitu kwa kuviweka mdomoni mwake. Anaweza pia kupanda kwenye kiti ili afikie vitu vilivyo juu! Kuwa mwangalifu sasa, mtazame na uhakikishe hakuna vitu hatari karibu naye. \r\n\r\nMtoto wako anataka kukufurahisha, kwa hivyo sio mapema sana kumfundisha namna anavyoweza kusaidia. Fanya kazi za nyumbani ziwe za kufurahisha kwa kuzifanya kuwa michezo. Gawanya kazi ziwe kazi ndogo ndogo na ufanye naye.\r\n\r\nInawezekana mtoto wako anatembea tayari, au atapiga hatua zake za kwanza hivi karibuni. \r\n\r\nUnaweza kufurahia kumfundisha mtoto wako kutembea. Simama au piga magoti mbele yake na unyoshee mikono yako. Jaribu kuishikilia mikono yake miwili na umtembeze akikuelekea. Huenda akapiga hatua zake za kwanza akiwa amenyoosha mikono yake kando na kuikunja kwenye viwiko. Anaweza pia kugeuza miguu yake nje na kuchomoza makalio yake ili apate urahisi wa kusimama.\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 6, 
+        "id": "25a7172d395b4bab9c60e89b59512e7d"
+    }, 
+    "model": "GitPageModel"
+}
