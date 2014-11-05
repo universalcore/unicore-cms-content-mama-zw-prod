@@ -6,7 +6,7 @@
   "primary_category": null, 
   "created_at": "2014-10-10T11:40:17.383160+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-10T11:40:17.383316+00:00", 
+  "modified_at": "2014-11-04T19:35:08.510584+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 48, 
   "slug": "tiredmama", 
   "uuid": "53c3bddf33544c2ca0b3f10cb6c29538"
 }

@@ -6,7 +6,7 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:39:26.836651+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-26T15:39:26.836969+00:00", 
+  "modified_at": "2014-11-04T19:34:59.630188+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 17, 
   "slug": "umri-wa-mwezi-1", 
   "uuid": "a1b79260d3d243fcb17aaefc3c79d61f"
 }

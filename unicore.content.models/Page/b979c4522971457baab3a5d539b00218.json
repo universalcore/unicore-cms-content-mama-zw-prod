@@ -6,7 +6,7 @@
   "primary_category": null, 
   "created_at": "2014-10-30T17:02:09.501250+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-30T17:02:09.501424+00:00", 
+  "modified_at": "2014-11-04T19:34:51.599194+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 2, 
   "slug": "about", 
   "uuid": "b979c4522971457baab3a5d539b00218"
 }

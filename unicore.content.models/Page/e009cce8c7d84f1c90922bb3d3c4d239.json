@@ -6,7 +6,7 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:56:42.192117+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-26T15:56:42.192266+00:00", 
+  "modified_at": "2014-11-04T19:34:56.189493+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 9, 
   "slug": "umri-wa-miezi-9", 
   "uuid": "e009cce8c7d84f1c90922bb3d3c4d239"
 }

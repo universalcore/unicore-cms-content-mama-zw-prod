@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "5e354c9c57df4314b7e1214a733bbcdf", 
   "language": "eng_UK", 
-  "title": "Pregnancy", 
+  "title": "Expert Pregnancy", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -12,6 +12,7 @@
   }, 
   "slug": "pregnancy", 
   "source": null, 
+  "position": 0, 
   "featured_in_navbar": true, 
   "id": "5e354c9c57df4314b7e1214a733bbcdf"
 }

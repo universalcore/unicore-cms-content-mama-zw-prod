@@ -12,6 +12,7 @@
   }, 
   "slug": "mtoto", 
   "source": null, 
-  "featured_in_navbar": false, 
+  "position": 1, 
+  "featured_in_navbar": true, 
   "id": "eb5f5a1396394982938deda3e21edfd0"
 }

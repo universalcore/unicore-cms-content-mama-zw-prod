@@ -2,7 +2,7 @@
   "subtitle": "", 
   "uuid": "4eafe002ebea4c7a97a7743183f70de1", 
   "language": "eng_UK", 
-  "title": "Baby", 
+  "title": "Expert Baby", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -12,6 +12,7 @@
   }, 
   "slug": "baby", 
   "source": null, 
+  "position": 1, 
   "featured_in_navbar": true, 
   "id": "4eafe002ebea4c7a97a7743183f70de1"
 }

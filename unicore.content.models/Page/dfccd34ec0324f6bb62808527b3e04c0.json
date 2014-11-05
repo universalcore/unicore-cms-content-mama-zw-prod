@@ -4,9 +4,9 @@
   "language": "swh_TZ", 
   "title": "Mwezi wa 9", 
   "primary_category": "1f67f026cd014dae96fb2dcb3ce94f4a", 
-  "created_at": "2014-10-22T12:35:40.058558+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-10-22T12:35:40.058874+00:00", 
+  "created_at": "2014-10-22T12:35:40+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-04T19:35:00.160020+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 19, 
   "slug": "mwezi-wa-9", 
   "uuid": "dfccd34ec0324f6bb62808527b3e04c0"
 }

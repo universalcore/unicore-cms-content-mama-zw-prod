@@ -1,12 +1,12 @@
 {
   "subtitle": "", 
   "description": "", 
-  "language": "", 
+  "language": "eng_UK", 
   "title": "Contact", 
   "primary_category": null, 
-  "created_at": "2014-10-10T16:19:34.900691+00:00", 
+  "created_at": "2014-10-10T16:19:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-10T16:19:34.900851+00:00", 
+  "modified_at": "2014-11-04T19:35:08.250785+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 48, 
   "slug": "contact", 
   "uuid": "4a550917f3884930bd1e333c698c93dd"
 }
