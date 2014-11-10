@@ -5,13 +5,13 @@
   "title": "TIREDMama: Money is tight", 
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2014-10-14T18:37:35+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-11-09T11:49:20.522537+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-10T08:03:24.704452+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 1, 
+  "position": 2, 
   "slug": "tiredmama", 
   "uuid": "f9787aaa037b4669bfce1b5f746962c5"
 }
