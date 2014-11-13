@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "055c33924e4c413f8b1762069d301326", 
+  "language": "swh_TZ", 
+  "title": "MAMA kwa MAMA", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mama-kwa-mama", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": true, 
+  "id": null
+}
