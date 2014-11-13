@@ -3,15 +3,15 @@
   "description": "Mama! Tazama ndani ya macho ya mtoto wako. ", 
   "language": "swh_TZ", 
   "title": "Umri wa mwezi 1", 
-  "primary_category": "d89bed02a18c4ccabc13257b0fbcf234", 
+  "primary_category": "6b3a6ec01a20413f88a1758041472a12", 
   "created_at": "2014-10-26T15:39:26.836651+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-13T08:45:24.410170+00:00", 
+  "modified_at": "2014-11-13T08:52:09.117778+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
