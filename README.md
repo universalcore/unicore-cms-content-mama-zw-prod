@@ -1,4 +1,4 @@
 unicore-cms-content-mama-tanzania-prod
 ======================================
 
-A Unicore CMS content repo for MAMA Tanzania - Production
+A Unicore CMS content repo for MAMA South Africa - Production
