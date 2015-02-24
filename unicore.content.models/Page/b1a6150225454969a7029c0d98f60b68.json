@@ -1,0 +1,29 @@
+{
+  "subtitle": "How can I care for her? ", 
+  "description": "How can I care for her? ", 
+  "language": "eng_GB", 
+  "title": "My baby has diarrhoea", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-02-19T11:28:23+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-20T09:09:14.939606+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf your baby has diarrhoea, she needs to replace the fluids she is losing, or she will get dehydrated. This means that her body does not have enough water to keep going. Keep offering your breast and let her feed as often as she wants.\r\n\r\n**If she is younger than 6 months**, she does not need any water. Breastmilk will give her all she needs.\r\n\r\n**If she is older than 6 months**, give her small sips of clean, safe water between feeds. Do not give her any fruit juice, cola fizzy or sugary drinks. These drinks can make diarrhoea worse. You could ask at the health facility, or pharmacy for oral rehydration solution (ORS), a few times an hour. ORS is a powder which is dissolved in a litre of clean, boiled and cooled water. You can store this and use it over 8-12 hours. Give your baby 15-20 teaspoons of ORS after each loose stool. Spread the teaspoons out over half an hour.\r\n\r\nTake your baby to a health worker as soon as possible if:\r\n\r\n - she has diarrhoea for more than 1 day\r\n - she has dry skin or lips\r\n - she has dark yellow pee and she is peeing less often\r\n - the soft spot in her head is sunken\r\n - she refuses to drink, has blood in her stools or has a swollen tummy\r\n - She vomits for more than a day, or has a fever which lasts more than a day.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 24, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "my-baby-has-diarrhoea", 
+  "uuid": "b1a6150225454969a7029c0d98f60b68"
+}

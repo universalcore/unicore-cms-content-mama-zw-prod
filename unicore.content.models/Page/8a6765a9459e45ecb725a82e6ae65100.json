@@ -1,0 +1,29 @@
+{
+  "subtitle": "Clean hands stop you getting sick", 
+  "description": "Clean hands stop you getting sick", 
+  "language": "eng_GB", 
+  "title": "Why wash my hands? ", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-02-19T10:28:54+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-19T12:12:11.886726+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nYou do not want to get sick while you are pregnant.\r\n\r\nWash your hands regularly with soap. Encourage your family to do it as well. Keeping your hands clean helps to prevent illnesses like pneumonia and diarrhoea.\r\n\r\nWash your hands:\r\n\r\n - when you come home\r\n - after you go to the toilet\r\n - after dealing with animals\r\n - before cooking \r\n - after handling raw eggs, meat or fish\r\n - before you eat\r\n\r\nHere is how to do it:\r\n\r\n - You need clean water and soap\r\n - Put a good amount of soap on to your palm\r\n - Rub both hands together, palm to palm, to make a lather\r\n - If you are using a bar of soap, turn it round in your hands until you work up a good lather\r\n - Clean between your fingers\r\n - Make sure you wash your wrists, hands and nails\r\n - Continue rubbing your hands, on both sides, for at least 15 seconds/Wash the soap off your hands with clean, safe water\r\n - Dry your hands using a clean towel\r\n\r\nYou could set up a wash stand near your cooking area or near the toilet to make it easy.\r\n\r\nJust by washing your hands, you can really reduce the risk of diseases like diarrhoea.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 79, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-wash-my-hands", 
+  "uuid": "8a6765a9459e45ecb725a82e6ae65100"
+}

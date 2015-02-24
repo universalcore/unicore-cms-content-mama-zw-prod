@@ -1,0 +1,35 @@
+{
+  "subtitle": "Know when to get help ", 
+  "description": "Know when to get help ", 
+  "language": "eng_GB", 
+  "title": "Danger signs at the birth ", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-02-19T11:06:17+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-19T12:38:39.486148+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "8d6101dbfd814dfd8f22955eaa40fd6b", 
+    "04734c8e3750410b97caa5cdbb184a32", 
+    "702da111af6c45a1a5712032554dc56f", 
+    "78880c3aa1804bf88227384430bc033a", 
+    "e2c5e425b1f847719813576d7066c651"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you notice any of these things happening, go to a clinic as soon as you can. \r\n\r\n**You:**\r\n\r\n - If your waters have broken but you are not in labour after 6 hours\r\n - Your contractions are lasting for over 12 hours, but the baby has not come yet\r\n - You are bleeding heavily and the blood soaks more than 2 to 3 pads in 15 minutes\r\n - Your placenta has not come out, and it is 1 hour after the birth of your baby\r\n\r\n**Your baby:**\r\n\r\n - You notice that your baby does not cry at birth, or has difficulty breathing\r\n - You notice that your baby cannot breastfeed\r\n - You notice that your baby has a fever, or feels cold\r\n - Your baby is very small (less than one and a half kilos (same weight as about one and a half litres of water) or born earlier than 32 weeks)\r\n - Your baby has fits\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 48, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "danger-signs-birth", 
+  "uuid": "e63b5f69438e407d8eee87d6a15dfb9c"
+}
